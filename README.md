@@ -25,7 +25,7 @@ Alternative Hypothesis (Ha): There is a significant difference in the amount of 
 4.  Which companies received the highest amount of funding?
 5.  what are Geographical Distribution of Funding?
 
-## what needed to be 
+## what needed to be done
 
 1. Year of Funding Information:
 
